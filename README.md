@@ -1,3 +1,5 @@
+Author: Andrew Jackowski
+
 # My Digital Portfolio
 ## A theme by Sean Bachman
 
